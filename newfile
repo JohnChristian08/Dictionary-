@@ -1,0 +1,34 @@
+DATA = {
+    "Ant-Man": "Shrinking hero, controls ants",
+    "Black Panther": "King of Wakanda",
+    "Black Widow": "Master of combat",
+    "Captain America": "Super soldier", 
+    "Captain Marvel": "Powerful cosmic hero",
+    "Daredevil": "Heightened senses",
+    "Deadpool": "Fourth-wall breaking anti-hero"
+    "Doctor Doom": "villainous genius",
+    "Doctor Strange": "Sorcerer Supreme"
+    "Hawkeye": "Expert archer",
+    "Hulk": "Green rage powerful monster",
+    "Human Torch": "Flaming member of the Fantastic Four",
+    "Invisible Woman": "Invisible member of the Fantastic Four",
+    "Iron Man": "armored superhero",
+    "Loki": "God of mischief and Thor's brother",
+    "Magneto": "Master of magnetism",
+    "Mr. Fantastic": "Stretchy member of the Fantastic Four",
+    "Scarlet Witch": "Powerful sorceress",
+    "Spider-Man": "Web-slinging teen",
+    "Star-Lord": "Leader of the Guardians of the Galaxy",
+    "Thor": "God of thunder",
+    "Thanos": "Mad Titan",
+    "The Punisher":  "Brutal vigilante",
+    "The Thing":  "Rock-skinned member of the Fantastic Four",
+    "The Vision": "Synthezoid, artificial intelligence",
+    "The Silver Surfer": "Herald of Galactus, cosmic power",
+    "The Green Goblin":  "Spider-Man's arch-nemesis",
+    "The Red Skull":  "Captain America's arch-nemesis",
+    "Venom": "Symbiote bonded to Eddie Brock, powerful and dangerous",
+    "Wolverine": "Mutant with healing factor, adamantium claws"
+} 
+a = input ("Marvel Character:")
+print(DATA[a])
